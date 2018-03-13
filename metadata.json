@@ -1,0 +1,8 @@
+{
+    "name": "Binance Ticker Monitor",
+    "description": "Display ticker price for cryptocurrency pair from Binance in Gnome Shell",
+    "uuid": "binance_ticker_monitor@jiraiya279.gmail.com",
+    "shell-version": [
+        "3.26.2"
+    ]
+}
