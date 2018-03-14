@@ -30,7 +30,7 @@ Possible configuration variables:
 
 Default data for symbols:
 
-```json
+```javascript
 [
     {
         symbol: 'ETHBTC',
